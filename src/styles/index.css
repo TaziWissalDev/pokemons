@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .pokemon-type {
+    @apply px-3 py-1 rounded-full text-sm text-white bg-blue-500;
+  }
+  
+  .stat-bar {
+    @apply w-full bg-gray-200 rounded-full h-2;
+  }
+  
+  .stat-bar-fill {
+    @apply bg-blue-500 rounded-full h-2;
+  }
+}
