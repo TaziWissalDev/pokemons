@@ -5,13 +5,16 @@ A modern Pokédex application built with React, TypeScript, and Redux Saga, feat
 ## Screenshots
 
 ### Landing Page
+![Alt text describing the image](assets/images/landing.png)
+
 The welcoming landing page with a "Start Exploring" button.
 
 ### Pokémon List
-
+![Alt text describing the image](assets/images/list.png)
 Grid layout of Pokémon cards with infinite scroll functionality.
 
 ### Pokémon Details
+![Alt text describing the image](assets/images/modal.png)
 Modal view showing detailed information about a selected Pokémon.
 
 ## Features
